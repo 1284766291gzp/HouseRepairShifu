@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="AsukaColor">#4B8DFA</color>
+
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="color_2508767">#FA5743</color>
+
+    <!--分割线-->
+    <color name="colorLine">#EBEBEB</color>
+
+    <color name="line230">#E6E6E6</color>
+
+    <color name="bg_247">#F7F7F7</color>
+
+    <color name="txt_162127">#10151B</color>
+    <color name="txt_26">#1A1A1A</color>
+    <color name="txt_51">#333333</color>
+    <color name="txt_153153153">#999999</color>
+    <color name="txt_179179179">#B3B3B3</color>
+    <color name="txt_2557016">#FF4610</color>
+
+
+
+
+</resources>

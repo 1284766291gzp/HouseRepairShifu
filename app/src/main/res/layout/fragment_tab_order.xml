@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_247"
+    android:orientation="vertical">
+
+
+
+<LinearLayout
+    android:layout_marginTop="25dp"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        
+        
+        <ImageView
+            android:layout_width="40dp"
+            android:src="@drawable/dingdan01"
+            android:layout_height="40dp" />
+        <TextView
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal"
+            android:textSize="14sp"
+            android:text="报价订单"
+            android:textColor="@color/txt_162127"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:src="@drawable/dingdan02"
+            android:layout_height="40dp" />
+        <TextView
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal"
+            android:textSize="14sp"
+            android:text="待托管订单"
+            android:textColor="@color/txt_162127"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:layout_width="40dp"
+            android:src="@drawable/dingdan03"
+            android:layout_height="40dp" />
+        <TextView
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal"
+            android:textSize="14sp"
+            android:text="待服务订单"
+            android:textColor="@color/txt_162127"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    
+
+</LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_marginTop="35dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:src="@drawable/dingdan04"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_marginTop="5dp"
+                android:gravity="center_horizontal"
+                android:textSize="14sp"
+                android:text="服务中订单"
+                android:textColor="@color/txt_162127"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:src="@drawable/dingdan05"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_marginTop="5dp"
+                android:gravity="center_horizontal"
+                android:textSize="14sp"
+                android:text="完工订单"
+                android:textColor="@color/txt_162127"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:src="@drawable/dingdan06"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_marginTop="5dp"
+                android:gravity="center_horizontal"
+                android:textSize="14sp"
+                android:text="退款/仲裁订单"
+                android:textColor="@color/txt_162127"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:layout_marginTop="35dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:src="@drawable/dingdan07"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_marginTop="5dp"
+                android:gravity="center_horizontal"
+                android:textSize="14sp"
+                android:text="全部订单"
+                android:textColor="@color/txt_162127"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
